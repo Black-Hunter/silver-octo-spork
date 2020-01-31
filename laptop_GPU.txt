@@ -1,0 +1,110 @@
+Nvidia Quadro M620  --> 2GB
+Nvidia GeForce 920M --> 4GB
+Nvidia GeForce GTX 1070 --> 8GB
+AMD Radeon 530 --> 4 GB
+Nvidia GeForce GTX 1050Ti --> 4GB
+Nvidia GeForce MX130 --> 4GB
+Intel HD Graphics 6000 --> 4GB
+AMD FirePro W5130M --> 2GB
+Nvidia Quadro M2000M --> 4GB
+AMD Radeon Pro 555 --> 2GB
+AMD Radeon RX 580 --> 8GB
+Nvidia GeForce 920 --> 4GB
+Nvidia GeForce 920MX --> 4GB
+AMD Radeon RX 560 --> 2GB
+AMD Radeon R2 Graphics --> 2GB
+AMD Radeon R7 M365X --> 4GB
+AMD FirePro W4190M --> 2GB 
+Nvidia Quadro M1000M --> 4GB
+Nvidia Quadro M500M --> 4GB
+Nvidia GeForce GTX 970M --> 4GB
+Intel HD Graphics 520 --> 4GB
+Nvidia GeForce 960M --> 4GB
+AMD Radeon R7 Graphics --> 4GB
+Intel HD Graphics 400 --> 2GB
+Nvidia Quadro M520M --> 1GB
+AMD Radeon R4 Graphics --> 2GB
+Nvidia GTX 980 SLI --> 4GB
+Nvidia GeForce GTX1060 --> 4GB
+Nvidia GeForce 930M --> 2GB
+Nvidia GeForce GTX 1070M --> 8GB
+Nvidia GeForce GTX 1050 --> 4GB
+AMD Radeon R9 M385 --> 4GB
+Nvidia GeForce MX150 --> 4GB
+Nvidia Quadro M3000M --> 4GB
+Nvidia GeForce GTX 980 --> 4GB
+Intel Iris Pro Graphics --> 128MB
+Intel HD Graphics 620 --> 1GB
+Nvidia GeForce GTX 960--> 4GB
+Intel HD Graphics 530 --> 1GB
+Intel Iris Plus Graphics 640 --> 4GB
+Nvidia GeForce GTX 980M --> 8GB
+AMD Radeon RX 540 --> 4GB 
+Nvidia GeForce GTX 940MX --> 4GB
+Intel HD Graphics --> 1GB 
+Nvidia Quadro 3000M --> 2GB
+Intel HD Graphics 500 --> 1GB
+Nvidia GeForce GTX 960M --> 4GB
+AMD Radeon Pro 560 -->4GB 
+AMD Radeon Pro 455 --> 4GB
+Intel Iris Plus Graphics 650 --> 1GB
+Intel Iris Graphics 550 --> 16GB
+AMD Radeon R7 M360 --> 4GB
+ARM Mali T860 MP4 --> 0
+AMD FirePro W6150M --> 4GB
+AMD Radeon R7 M445 --> 4GB
+AMD Radeon R5 430 --> 1GB
+AMD Radeon R7 M440 --> 2GB
+AMD FirePro W4190M --> 2GB
+AMD Radeon RX 550 --> 4GB
+AMD Radeon R5 M330 --> 2GB
+Intel HD Graphics 405 --> 1GB
+Nvidia GeForce GTX 950M --> 4GB
+Intel HD Graphics 515 --> 1GB
+Nvidia Quadro M2200M --> 4GB
+Intel HD Graphics 510 --> 1GB
+Nvidia GeForce 920MX --> 1GB
+Intel HD Graphics 630 --> 16GB
+AMD Radeon R5 M430 --> 2GB
+Nvidia Quadro M1200 --> 4GB
+Intel Iris Graphics 540 --> 16GB
+Intel HD Graphics 5300 --> 1GB 
+AMD Radeon 540 --> 4GB
+Nvidia GeForce 940M --> 4GB
+Nvidia GeForce GT 940MX --> 4GB
+Nvidia GeForce GTX1050 Ti --> 4GB
+Nvidia GeForce 930MX  --> 4GB
+Intel HD Graphics 620 --> 1GB
+Nvidia Quadro M620M --> 2GB
+AMD Radeon R5 M420 --> 2GB
+Nvidia GeForce GTX1080 --> 4GB
+Nvidia GeForce GTX 1050M --> 4GB
+Nvidia GeForce 930MX --> 2GB 
+AMD Radeon R2 --> 1GB
+AMD Radeon R3 --> 1GB
+AMD Radeon R7 M465 --> 4GB
+Nvidia GeForce GTX 1050 Ti --> 2GB
+AMD Radeon R7 --> 4GB
+AMD Radeon R4 --> 1GB
+AMD Radeon R7 M460 --> 16GB
+AMD Radeon R5 520 --> 2GB
+Nvidia GeForce 150MX --> 2GB
+Intel UHD Graphics 620 --> 16GB
+Nvidia GeForce 940MX --> 2GB
+Intel Graphics 620 --> 1GB
+Nvidia GeForce GTX 965M --> 4GB 
+AMD Radeon R5 --> 2GB
+Nvidia GeForce GTX 1080 --> 8GB
+AMD R4 Graphics --> 1GB
+Intel HD Graphics 505 --> 1GB
+Intel HD Graphics 540 --> 0
+Intel HD Graphics 615 --> 1GB
+AMD R17M-M1-70 --> 2GB
+AMD Radeon R5 M420X --> 2GB
+Nvidia GeForce GTX 1060 --> 4GB
+AMD Radeon 520 --> 2GB
+Nvidia GeForce GTX 940M --> 4GB
+Nvidia Quadro M2200 --> 4GB
+AMD Radeon R5 M315 --> 2GB
+Nvidia GeForce GTX 960 --> 4GB
+Nvidia GeForce GTX 930MX -->  2GB
